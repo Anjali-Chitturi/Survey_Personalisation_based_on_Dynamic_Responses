@@ -1,0 +1,13 @@
+Steps to run the code:
+
+1.To run the code you must install Lmstudio application - link: https://lmstudio.ai/
+2.In Lmstudio download the model "bartowski/Meta-Llama-3.1-8B-Instruct-GGUF"
+3.Go to local server and click on Start Server.
+4.Now you can run app.py on any python ide that supports flask 
+
+If any queries while running the program, Please Contact me.
+
+With regards,
+Chitturi Namratha Sumanjali,
+7416417939,
+2100080087ai.ds@gmail.com.

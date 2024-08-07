@@ -1,0 +1,29 @@
+A: food
+Q: You selected "Food" as the topic. What type of cuisine are you most familiar with? 
+
+1. Italian 
+2. Chinese
+3. Indian 
+4. Mexican 
+5. Other (please specify)
+
+A: indian
+Q: What's your favorite North Indian dish?
+
+A: chicken curry
+Q: Which cooking method is used to make authentic chicken curry?
+
+1. Braising in a slow cooker
+2. Stovetop sautéing with onions
+3. Using a pressure cooker
+
+A: 2
+Q: What spice blend do you associate with North Indian cuisine?
+
+1. Garam masala
+2. Cumin-corriander powder
+3. Chili-cashew mix
+
+A: 3
+Q: Which type of naan bread do you like to serve with chicken curry?
+
